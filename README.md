@@ -1,4 +1,4 @@
-#Random Password Generator
+# Random Password Generator
 
 Developed using react:
 * It generates random password.
